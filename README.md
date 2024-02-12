@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a practicing developer. I am engaged in web development with the introduction of artificial intelligence. I work on the React 17 stack and GPT chats. It's hard not to study:)
+
 <!--
 **RomanNemercev/RomanNemercev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
