@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm a practicing developer. I am engaged in web development with the introduction of artificial intelligence. I work on the React 17 stack and GPT chats. It's hard not to study:)
+I'm a Frontend Developer with a strong focus on Vue/Nuxt 3, Tailwind CSS, and
+clean architecture.
+Confident in HTML, CSS, and JavaScript. I work comfortably with both REST
+and GraphQL APIs. I’ve built full-featured CRM systems from scratch and
+quickly adapt to new technologies.
 
 <!--
 **RomanNemercev/RomanNemercev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
